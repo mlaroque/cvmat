@@ -1,9 +1,9 @@
 # cvmat
-Description: This is my digital my resume. My main goal is to offer a more complete version of my resume, without being boring about it.
+Description: This is my digital my resume. My main goal is to offer a more complete version of my resume.
 
 At this moment, the app features 4 sections (professional, academic, hobbies and portfolio) and a basic search function.
 
-I will add videos to each section, but at the moment you will it commented
+I will add videos to each section, but at the moment you will see it commented.
 
 Project built with ReactJS. Currently based on class components. I am not excluding to rewrite it with function components.
 
