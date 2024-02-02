@@ -1,0 +1,25 @@
+[
+  {"id": 1,
+  "section" : "professional",
+  "html" : "lacomuna",
+  "keywords" : [ "A perfect fit", "Web Services API", "Front-End Development","Back-End Development","Full-Stack Development","Wordpress","IT Management","Web Development","PHP","API","Javascript","Spanish","Mexico","Founder"]},
+  {"id": 2,
+  "section" : "professional",
+  "html" : "lambdalogic",
+  "keywords" : [ "A perfect fit","Consultant", "Java Seam","C#","Client Relations","German","English","Project Management","Javascript","Front-End Development","Back-End Development","Full-Stack Development"]},
+  {"id": 3,
+  "section" : "professional",
+  "html" : "neoris",
+  "keywords" : [ "A perfect fit","Consultant", "C#","Integration Testing","Compuware Vantage","Morocco","French","Software Development","IT Audit","Client Relations","Front-End Development","Back-End Development","Full-Stack Development","Project Management","Java"]},
+  {"id": 4,
+  "section" : "academic",
+  "html" : "utt",
+  "keywords" : [ "A perfect fit","PowerBuilder", "C#","UTT","University","School","Internship","English","France","Side jobs"]},
+  {"id": 5,
+  "section" : "hobbies",
+  "html" : "hobbies",
+  "keywords" : [ "A perfect fit","Travel", "Sports","Kids","Food","World","Tennis","Rugby","Football"]}
+
+
+
+]
