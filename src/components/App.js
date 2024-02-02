@@ -147,7 +147,7 @@ class App extends Component {
 			<div className="header-container" style={headerStyle}>
 			<div className='socialPic'>
 				<a href="https://www.linkedin.com/in/mathieu-laroque-malbert-b3289411/" target="_blank"><img src={linkedin} /></a>
-				<a href="https://github.com/mlaroque" target="_blank"><img src={github} /></a>
+				<a href="https://github.com/mlaroque/cvmat" target="_blank"><img src={github} /></a>
 				{this.state.showMagnifier && 
 					<img src={magnifier} onClick={() => {searchIcon("-70%","-125px",0.4,'left','search')}}/>
 				}
@@ -187,7 +187,7 @@ class App extends Component {
 
 			 </div>
 			}
-			 {/*this.state.showVideo && 
+			 {this.state.showVideo && 
 			 <div className="video">
 			  <Player
 		      playsInline
@@ -196,7 +196,7 @@ class App extends Component {
 		    />
 			 	<button className="button" type="button" value="video" onClick={showVideoFn}>Close Video</button>
 			 </div>
-			*/}
+			}
 			 </div>
 		);
 	}
